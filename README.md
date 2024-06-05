@@ -46,6 +46,6 @@ PASSWORD:admin123
 
 Details about doctor and patients can be accessed using admin.Also the username and passwords .
 
-Final report and mid term report has also been included.
+Final report and mid term report have also been included.
 
 
