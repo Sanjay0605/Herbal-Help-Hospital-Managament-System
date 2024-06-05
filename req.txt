@@ -1,0 +1,62 @@
+
+
+
+delete or insert a column in between two different columns in a table
+quickly search how to do that
+
+using sql queries??
+not necessarily
+ALTER TABLE table_name DROP COLUMN column_name;
+
+ALTER TABLE table_name ADD column_name data_type AFTER existing_column_name;
+
+SELECT prescription FROM prestb WHERE disease = 'your_disease_name';  WORKS this one
+
+ALTER TABLE prestb DROP COLUMN apptime;
+   |
+ALTER TABLE prestb ADD address VARCHAR AFTER allergy;
+
+
+ALTER TABLE prestb DROP COLUMN apptime; 
+bro  nothig is w orking
+
+bro patient nothing is working
+waht did u do that time
+not a isnge functionality is working
+
+bro evn iind cotor nothing i working
+
+wtffff
+
+list of all patients a parituclar doctor is treating
+select * from doctortab
+emancod'=rotcod erehw e
+
+leave this i got it  ...in backend it worked do front enhanced
+
+aevrything came back. okat good. now what needs to be done?
+bronow i ll show her until where i have finished
+
+bro its only showing one result i need. a ll of 
+them
+LISTENNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNnn
+when u say only 1 result do u mean its only showing for ashok or do u mean its only showing one patient of whatever name of the doctor youre inserting
+see
+see when i search ashok its givingonly 1 entry of ashok
+lsiten go to doctor seaerch
+
+instead of search by contact  make it search by doctor name 
+and should  give all the paitent names ...do same thing as yesterday where it shows all reesults but search shoukd be by docator name
+
+
+did us see????
+
+
+SELECT * FROM appointmenttb where doctor='ashok';
+
+first tell me when u search for some other doctor does that show also?
+need clarity on this first
+does it only work for ashok or others too
+
+
+update?
